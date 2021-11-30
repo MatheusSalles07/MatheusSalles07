@@ -2,7 +2,7 @@
 
 - Prazer, me chamo Matheus Paganatto de Salles, atualmente estou estudando focado no desenvolvimento da linguagem Java e outras em si. Tenho conhecimentos básicos em algumas linguagens, tanto front-end como back-end.
 
-- Me considero estusiaste em novas tecnologias e inovações.
+- Me considero estusiasta em novas tecnologias e inovações.
 
 - 🌱 JavaScript, HTML, CSS.
 - 🌱 Java SpringBoot.
